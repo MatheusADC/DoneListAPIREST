@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="Ícone de descrição" width="28"> Descrição
-Um site que exibe tarefas pendentes e concluídas.
+Um site que exibe tarefas pendentes e concluídas. A API exibe uma lista de tarefas no formato JSON através da utilização do serviço API Gateway da AWS integrado com uma Função Lambda.
 
 # <sub><img src="https://img.icons8.com/?size=100&id=L3V7IDcwKTn2&format=png&color=000000" alt="Ícone de tarefa" width="36"></sub> Página
 ![image](https://github.com/user-attachments/assets/d3c4e307-4212-41c4-904e-efd219fa9190)
